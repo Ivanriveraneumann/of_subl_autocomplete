@@ -6,7 +6,7 @@ This may not be the optimal or most elegant solution to have Openframeworks auto
 
 <h2>Introduction</h2>
 <p>
-I tried to setup Openframeworks on Debian but i experienced lots of issues with IDEs: qt-creator, for some reason, had an start up problem, and i don't like Codeblocks (i don't like IDEs anyway). So i tried to make it with Sublime Text, but it also failed (running Openframeworks in Sublime it's a bit tricky in my opinion, because the documentation you can find is not really clear about how to do it, specially on linux)
+I tried to setup Openframeworks on Debian but i experienced some issues with IDEs, so i tried to make it with Sublime Text, but it also failed (running Openframeworks in Sublime it's a bit tricky in my opinion, because the documentation you can find is not really clear about how to do it, specially on linux)
 </p>
 <p>
 Since you can create Openframeworks projects with projectGenerator and you can compile and run them with Make, is not mandatory to use an IDE such as QT, Xcode or Codeblocks, specially if you are not on OSX where you can use Xcode. So i decided to write this tiny scrapper to generate Sublime custom snippets.
