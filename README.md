@@ -37,7 +37,7 @@ In order to not bloat your system with tons of files, you have to give the scrip
 
 <p>
 <h3>Step 2</h3>
-Once you are done step 2, just run the script as any other Python script. It will generate a folder in the script folder with the name of the module you just scrapped.
+Once you are done step 2, just run the script as any other Python script. It will generate a new folder with the name of the module you just scrapped.
 </p>
 
 <p>
