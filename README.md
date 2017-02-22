@@ -28,13 +28,12 @@ The script fetchs what is on the h2 tags contained in the div object with the "d
 In order to not bloat your system with tons of files, you have to give the script the module section you want to scrapp in order to generate the snippets you are looking for. To do so, just replace the value of the url variable at the begining of the script with the url of the module you want to scrap, for instance
 </p>
 
-<code> 
-#default value (generates snippets for drawing functions)
-url='http://openframeworks.cc/documentation/graphics/ofGraphics/'
+<span> #default value (generates snippets for drawing functions)</span>
+<code>url='http://openframeworks.cc/documentation/graphics/ofGraphics/'</code>
 
-#new value (generates snippets for 3d utilities)
-url='http://openframeworks.cc/documentation/3d/of3dUtils/'
-</code>
+<span>#new value (generates snippets for 3d utilities)</span>
+<code>url='http://openframeworks.cc/documentation/3d/of3dUtils/'</code>
+
 
 <p>
 <h3>Step 2</h3>
@@ -45,12 +44,3 @@ Once you are done step 2, just run the script as any other Python script. It wil
 <h3>Step 3</h3>
 Now just paste that folder in <code>~/.config/sublime-text-3/Packages/User/</code>. This path is where Sublime stores custom snippets files in Linux.
 </p>
-
-
-
-
-
-
-
-
-
