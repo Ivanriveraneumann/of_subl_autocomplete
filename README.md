@@ -28,10 +28,10 @@ The script fetchs what is on the h2 tags contained in the div object with the "d
 In order to not bloat your system with tons of files, you have to give the script the module section you want to scrapp in order to generate the snippets you are looking for. To do so, just replace the value of the url variable at the begining of the script with the url of the module you want to scrap, for instance
 </p>
 
-<span> #default value (generates snippets for drawing functions)</span>
+<span> #default value (generates snippets for drawing functions)</span><br>
 <code>url='http://openframeworks.cc/documentation/graphics/ofGraphics/'</code>
 
-<span>#new value (generates snippets for 3d utilities)</span>
+<span>#new value (generates snippets for 3d utilities)</span><br>
 <code>url='http://openframeworks.cc/documentation/3d/of3dUtils/'</code>
 
 
